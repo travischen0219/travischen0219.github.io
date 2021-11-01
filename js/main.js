@@ -92,8 +92,8 @@ $(document).ready(function() {
 
 
   $('.services-carousel').owlCarousel({
-      autoplay: true,
-      loop: true,
+      autoplay: false,
+      loop: false,
       margin: 20,
       dots: true,
       nav: false,
