@@ -302,7 +302,13 @@ nav ul li a {
 
 #about .about-descr .p-heading {
   font-family: 'Playfair Display', serif;
-  font-size: 28px;
+  font-size: 40px;
+  text-align: left;
+}
+
+#about .about-descr .p-heading2 {
+  font-family: 'Playfair Display', serif;
+  max-width: 80%;
   text-align: left;
 }
 
